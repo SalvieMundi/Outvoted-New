@@ -3,7 +3,7 @@ plugins {
 }
 
 minecraft {
-    accessWidenerPath = file("src/main/resources/outvoted.accesswidener")
+    accessWidenerPath = file("F:/Dev/git/Outvoted-New/common/src/main/resources/outvoted.accesswidener")
 }
 
 architectury {
@@ -86,9 +86,9 @@ components.java {
     }
 }
 
-sourceSets.main.resources {
-    srcDirs '../forge/src/generated/resources'
-}
+//sourceSets.main.resources {
+//    srcDirs '../forge/src/generated/resources'
+//}
 
 import com.modrinth.minotaur.TaskModrinthUpload
 

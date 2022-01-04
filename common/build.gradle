@@ -1,5 +1,5 @@
 loom {
-    accessWidenerPath = file("../fabric/src/main/resources/outvoted.accesswidener")
+    accessWidenerPath = file("src/main/resources/outvoted.accesswidener")
 }
 
 dependencies {

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>fabric</name>
+	<comment></comment>
+	<projects/>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments/>
+		</buildCommand>
+	</buildSpec>
+	<linkedResources>
+		<link>
+			<name>generated-resources</name>
+			<type>2</type>
+			<location>F:/Dev/git/Outvoted-New/forge/src/generated/resources</location>
+		</link>
+	</linkedResources>
+	<filteredResources/>
+</projectDescription>

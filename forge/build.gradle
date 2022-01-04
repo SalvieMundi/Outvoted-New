@@ -14,7 +14,7 @@ loom {
 
     launches {
         data {
-            arg "--existing", file("../common/src/main/resources").absolutePath
+            arg "--existing", file("F:/Dev/git/Outvoted-New/common/src/main/resources").absolutePath
         }
     }
 }

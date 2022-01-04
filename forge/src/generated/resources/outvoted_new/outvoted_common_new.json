@@ -1,0 +1,16 @@
+{
+  "entities": {
+    "coppergolem": {
+      "health": 25.0,
+      "oxidationRate": 0.001
+    },
+    "glare": {
+      "spawn": true,
+      "rate": 8,
+      "health": 10.0
+    }
+  },
+  "misc": {
+    "givePatchouliBookOnLogin": false
+  }
+}

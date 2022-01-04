@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "io.github.how_bout_no.outvoted.mixin",
+  "package": "io.github.how_bout_no.outvoted_new.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
     "MixinAnvilScreenHandler",
